@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1542190670 source:/home/tristan/Bureau/Dabman/Dabman.cpp
+	"Dabman.h"
+
+1542190598 /home/tristan/Bureau/Dabman/Dabman.h
+	<iostream>
+	<math.h>
+	"GL/glut.h"
+
+1542190464 source:/home/tristan/Bureau/Dabman/main.cpp
+	<iostream>
+	<math.h>
+	<time.h>
+	<jpeglib.h>
+	<jerror.h>
+	"GL/glut.h"
+	"Dabman.h"
+
